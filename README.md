@@ -20,7 +20,7 @@ Virtual Aql is not just a demo — it’s a prototype of a scalable digital ecos
 
 ## 📽️ Environment Walkthrough (Demo Video)
 
-![Watch the VR Demo](https://youtube.com/shorts/JzoQwr1Ncn8?feature=shared)
+[![Watch the VR Demo](https://img.youtube.com/vi/JzoQwr1Ncn8/0.jpg)](https://youtube.com/shorts/JzoQwr1Ncn8?feature=shared)
 
 ## 🎮 Features
 
